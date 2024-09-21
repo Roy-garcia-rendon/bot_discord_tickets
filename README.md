@@ -1,3 +1,9 @@
 Código para un bot que abra tickets en discord, su funcionalidad es sencilla, en los lugares del código que tengan cometarios tendrás que remplazar con las id correspondientes. Para poder usarlo tendrás que tener node.js descargado junto con la api de discord.js, con esto listo ya solo es cuestión de que lo añadas a un host, puede ser desde visual studios code abriendo la terminal y colocando node index.js (index o dependiendo el nombre con el que tengas el archivo de código del bot) o en algun otro host para bots de discord, la descripción de los tickets se pueden modificar(archivo index) en la parte de label, emoji, description y value
 
 Code for a bot that opens tickets on Discord, its functionality is simple, in the places in the code that have comments you will have to replace them with the corresponding IDs. To be able to use it you will have to have node.js downloaded along with the discord.js api, with this ready it is only a matter of adding it to a host, it can be from visual studios code by opening the terminal and placing node index.js ( index or depending on the name with which you have the bot code file) or in some other host for discord bots, the description of the tickets can be modified (index file) in the label, emoji, description and value part
+
+Al momento de crear al bot tendrás que crear una carpeta de allí copiar la dirección y dirigirse al cmd de Windows colocado el comando cd y posteriormente pegando la dirección de la carpeta, para iniciar el proyecto tendrás que colocar el comando npm init -y
+para descargar la API de discord.js en el mismo cmd de Windows colocar npm install discord.js
+
+When creating the bot you will have to create a folder, copy the address there and go to the Windows cmd, placing the cd command and then pasting the folder address, to start the project you will have to enter the command npm init -y
+To download the discord.js API in the same Windows cmd, enter npm install discord.js
